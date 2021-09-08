@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Bateria" width="900" height="500" title="" src="./assets/img/barra-google.png" />
+    <img alt="Bateria" width="800" height="400" title="" src="./assets/img/barra-google.png" />
 </h1>
 
 <h4 align="center"> 
